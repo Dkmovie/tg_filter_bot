@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('⭕️ Updates', url='https://t.me/DK_Area'),
-            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/DK_HDmovie')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
@@ -99,7 +99,7 @@ async def start(client, message):
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('⭕️ Updates', url='https://t.me/DK_Area'),
-            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('Movie Club ⭕️', url='https://t.me/DK_HDmovie')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
         ]]
@@ -254,7 +254,7 @@ async def start(client, message):
             InlineKeyboardButton('Channel ⭕️', url='https://t.me/josprojects/221')
         ],
         [
-            InlineKeyboardButton('🎬 Series & Movie Club 🎬', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('🎬 Series & Movie Club 🎬', url=f'https://t.me/DK_HDmovie')
         ]
         ]
     await client.send_cached_media(
