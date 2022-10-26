@@ -45,7 +45,7 @@ add optional larger result buttons:
 * Check [info.py](info.py) for more
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/tgmoviebot)
+[![join Channal](https://t.me/DK_Gru/join Channal/button.svg)](https://heroku.com/deploy?template=https://t.me/DK_Gru)
 
 You can deploy this bot anywhere.
 
