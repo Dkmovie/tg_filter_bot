@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/Dkmovie/tgmoviebot
+<a href="https://www.herokucdn.com/deploy/button/https://github.com/Dkmovie/tgmoviebot
 
 ">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
