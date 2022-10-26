@@ -53,7 +53,6 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Dkmovie/tgmoviebot"
-
 ">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
