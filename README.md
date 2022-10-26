@@ -45,7 +45,7 @@ add optional larger result buttons:
 * Check [info.py](info.py) for more
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/OP-Files-Store-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/tgmoviebot)
 
 You can deploy this bot anywhere.
 
