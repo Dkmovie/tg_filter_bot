@@ -1,7 +1,13 @@
-echo "Cloning Repo, Please Wait..."
-git clone -b master https://github.com/Dkmovie/tgmoviebot.git /IMDb-Movie-Bot
-cd /IMDb-Movie-Bot
-echo "Installing Requirements..."
+
+if [ -z $UPSTREAM_REPO ]
+then
+  echo "Cloning main Repository"
+  git clone https://github.com/Dkmovie/tg_filter_bot /Eva
+else
+  echo "Cloning Custom Repo from $UPSTREAM_REPO "
+  git clone $UPSTREAM_REPO /Eva
+fi
+cd /Eva
 pip3 install -U -r requirements.txt
-echo "Starting Bot, Please Wait..."
+echo "Starting Bot...."
 python3 bot.py
